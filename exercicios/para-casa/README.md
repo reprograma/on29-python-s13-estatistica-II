@@ -38,15 +38,16 @@
     - **Valor p:** É a probabilidade de obter os resultados observados, assumindo que a hipótese nula é verdadeira.
     - **Decisão sobre a hipótese nula:** Se o valor p for menor que o nível de significância (α, geralmente 0.05), rejeitamos a hipótese nula. Se o valor p for maior que α, não rejeitamos a hipótese nula.
 
-6. **Apresentação:** Deve apresentar os resultados da sua análise para a turma, incluindo:
-    - A pergunta de pesquisa.
-    - As hipóteses.
-    - O teste realizado.
-    - Os resultados do teste (valor p, estatística do teste).
-    - A interpretação dos resultados.
+6. **Relatório:**  Deve elaborar um relatório sobre a análise, incluindo as seguintes seções:
+    - **Introdução:** Descreva o contexto da pesquisa, a pergunta de pesquisa e a importância da análise.
+    - **Metodologia:** Descreva o conjunto de dados utilizado, o teste de hipóteses escolhido e os passos da análise.
+    - **Resultados:** Apresente os resultados do teste, incluindo o valor p, estatística do teste e tabelas ou gráficos relevantes.
+    - **Discussão:** Interprete os resultados do teste, relacionando-os à pergunta de pesquisa e às hipóteses. Discuta as implicações dos resultados e as limitações da análise.
+    - **Conclusão:** Resuma as conclusões da análise e as implicações práticas dos resultados.
 
 **Recursos:**
 
+- [Modelo Relatório de Análise de Dados - Teste de Hipóteses](exercicio/para-casa/modelo_relatorio)
 - [Kaggle](https://www.kaggle.com/)
 - [Documentação Scipy](https://docs.scipy.org/doc/scipy/reference/index.html)
 - [Documentação Statsmodels](https://www.statsmodels.org/stable/index.html)
@@ -58,8 +59,6 @@
 * Formular uma pergunta de pesquisa clara e específica.
 * Use a biblioteca correta para realizar o teste de hipóteses escolhido.
 * Interprete os resultados do teste de forma clara e concisa.
-
-
 
 ---
 
